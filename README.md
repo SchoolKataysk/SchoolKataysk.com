@@ -1,1 +1,1 @@
-# SchoolKataysk.com
+# schoolkataysk.github.io
